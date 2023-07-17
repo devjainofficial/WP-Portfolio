@@ -1,0 +1,225 @@
+[14-Jul-2023 12:54:17 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[15-Jul-2023 12:46:05 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[15-Jul-2023 16:03:52 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-image-editor-gd.php on line 111
+[15-Jul-2023 16:03:53 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-image-editor-gd.php on line 111
+[15-Jul-2023 16:03:53 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-image-editor-gd.php on line 111
+[15-Jul-2023 16:03:54 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-image-editor-gd.php on line 111
+[15-Jul-2023 16:03:54 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-image-editor-gd.php on line 111
+[15-Jul-2023 16:03:54 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-image-editor-gd.php on line 111
+[15-Jul-2023 16:05:13 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-image-editor-gd.php on line 111
+[15-Jul-2023 16:05:13 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-image-editor-gd.php on line 111
+[15-Jul-2023 16:05:14 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-image-editor-gd.php on line 111
+[15-Jul-2023 16:05:14 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-image-editor-gd.php on line 111
+[15-Jul-2023 16:05:14 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-image-editor-gd.php on line 111
+[15-Jul-2023 16:05:15 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-image-editor-gd.php on line 111
+[15-Jul-2023 16:07:03 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-image-editor-gd.php on line 111
+[15-Jul-2023 16:07:03 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-image-editor-gd.php on line 111
+[15-Jul-2023 16:07:04 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-image-editor-gd.php on line 111
+[15-Jul-2023 16:07:04 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-image-editor-gd.php on line 111
+[15-Jul-2023 16:07:04 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-image-editor-gd.php on line 111
+[15-Jul-2023 16:07:04 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-image-editor-gd.php on line 111
+[15-Jul-2023 16:08:04 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 151222480 bytes) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-image-editor-gd.php on line 111
+[15-Jul-2023 16:08:05 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 151222480 bytes) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-image-editor-gd.php on line 111
+[15-Jul-2023 16:08:05 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 151222480 bytes) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-image-editor-gd.php on line 111
+[15-Jul-2023 16:08:05 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 151222480 bytes) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-image-editor-gd.php on line 111
+[15-Jul-2023 16:08:05 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 151222480 bytes) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-image-editor-gd.php on line 111
+[15-Jul-2023 16:08:06 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 151222480 bytes) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-image-editor-gd.php on line 111
+[16-Jul-2023 11:38:27 UTC] PHP Warning:  Attempt to read property "hierarchical" on null in C:\Users\user\Local Sites\devjain\app\public\wp-includes\link-template.php on line 337
+[16-Jul-2023 11:38:27 UTC] PHP Warning:  Attempt to read property "query_var" on null in C:\Users\user\Local Sites\devjain\app\public\wp-includes\link-template.php on line 347
+[16-Jul-2023 11:48:28 UTC] PHP Fatal error:  Uncaught WP2StaticGuzzleHttp\Exception\ConnectException: cURL error 28: Operation timed out after 600000 milliseconds with 0 bytes received (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for http://devjain.local/robots.txt in C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\CurlFactory.php:210
+Stack trace:
+#0 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\CurlFactory.php(158): WP2StaticGuzzleHttp\Handler\CurlFactory::createRejection(Object(WP2StaticGuzzleHttp\Handler\EasyHandle), Array)
+#1 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\CurlFactory.php(110): WP2StaticGuzzleHttp\Handler\CurlFactory::finishError(Object(WP2StaticGuzzleHttp\Handler\CurlHandler), Object(WP2StaticGuzzleHttp\Handler\EasyHandle), Object(WP2StaticGuzzleHttp\Handler\CurlFactory))
+#2 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\CurlHandler.php(47): WP2StaticGuzzleHttp\Handler\CurlFactory::finish(Object(WP2StaticGuzzleHttp\Handler\CurlHandler), Object(WP2StaticGuzzleHttp\Handler\EasyHandle), Object(WP2StaticGuzzleHttp\Handler\CurlFactory))
+#3 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\Proxy.php(28): WP2StaticGuzzleHttp\Handler\CurlHandler->__invoke(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#4 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\Proxy.php(48): WP2StaticGuzzleHttp\Handler\Proxy::WP2StaticGuzzleHttp\Handler\{closure}(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#5 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\PrepareBodyMiddleware.php(35): WP2StaticGuzzleHttp\Handler\Proxy::WP2StaticGuzzleHttp\Handler\{closure}(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#6 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Middleware.php(31): WP2StaticGuzzleHttp\PrepareBodyMiddleware->__invoke(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#7 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\RedirectMiddleware.php(71): WP2StaticGuzzleHttp\Middleware::WP2StaticGuzzleHttp\{closure}(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#8 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Middleware.php(61): WP2StaticGuzzleHttp\RedirectMiddleware->__invoke(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#9 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\HandlerStack.php(75): WP2StaticGuzzleHttp\Middleware::WP2StaticGuzzleHttp\{closure}(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#10 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Client.php(331): WP2StaticGuzzleHttp\HandlerStack->__invoke(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#11 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Client.php(107): WP2StaticGuzzleHttp\Client->transfer(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#12 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Client.php(123): WP2StaticGuzzleHttp\Client->sendAsync(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#13 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\DetectSitemapsURLs.php(91): WP2StaticGuzzleHttp\Client->send(Object(WP2StaticGuzzleHttp\Psr7\Request))
+#14 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\URLDetector.php(101): WP2Static\DetectSitemapsURLs::detect('http://devjain....')
+#15 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\URLDetector.php(196): WP2Static\URLDetector::detectURLs()
+#16 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Controller.php(699): WP2Static\URLDetector::enqueueURLs()
+#17 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Controller.php(811): WP2Static\Controller::wp2staticHeadless()
+#18 C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-hook.php(306): WP2Static\Controller::wp2staticRun()
+#19 C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#20 C:\Users\user\Local Sites\devjain\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#21 C:\Users\user\Local Sites\devjain\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_wp2stat...')
+#22 {main}
+  thrown in C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\CurlFactory.php on line 210
+[16-Jul-2023 13:44:17 UTC] PHP Warning:  Attempt to read property "hierarchical" on null in C:\Users\user\Local Sites\devjain\app\public\wp-includes\link-template.php on line 337
+[16-Jul-2023 13:44:17 UTC] PHP Warning:  Attempt to read property "query_var" on null in C:\Users\user\Local Sites\devjain\app\public\wp-includes\link-template.php on line 347
+[16-Jul-2023 14:14:33 UTC] PHP Fatal error:  Uncaught TypeError: WP2Static\Crawler::WP2Static\{closure}(): Argument #1 ($reason) must be of type WP2StaticGuzzleHttp\Exception\RequestException, WP2StaticGuzzleHttp\Exception\ConnectException given in C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Crawler.php:235
+Stack trace:
+#0 [internal function]: WP2Static\Crawler->WP2Static\{closure}(Object(WP2StaticGuzzleHttp\Exception\ConnectException), 1, Object(WP2StaticGuzzleHttp\Promise\Promise))
+#1 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\EachPromise.php(191): call_user_func(Object(Closure), Object(WP2StaticGuzzleHttp\Exception\ConnectException), 1, Object(WP2StaticGuzzleHttp\Promise\Promise))
+#2 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(204): WP2StaticGuzzleHttp\Promise\EachPromise->WP2StaticGuzzleHttp\Promise\{closure}(Object(WP2StaticGuzzleHttp\Exception\ConnectException))
+#3 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(153): WP2StaticGuzzleHttp\Promise\Promise::callHandler(2, Object(WP2StaticGuzzleHttp\Exception\ConnectException), NULL)
+#4 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\TaskQueue.php(48): WP2StaticGuzzleHttp\Promise\Promise::WP2StaticGuzzleHttp\Promise\{closure}()
+#5 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\CurlMultiHandler.php(158): WP2StaticGuzzleHttp\Promise\TaskQueue->run()
+#6 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\CurlMultiHandler.php(183): WP2StaticGuzzleHttp\Handler\CurlMultiHandler->tick()
+#7 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(248): WP2StaticGuzzleHttp\Handler\CurlMultiHandler->execute(true)
+#8 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(224): WP2StaticGuzzleHttp\Promise\Promise->invokeWaitFn()
+#9 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(269): WP2StaticGuzzleHttp\Promise\Promise->waitIfPending()
+#10 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(226): WP2StaticGuzzleHttp\Promise\Promise->invokeWaitList()
+#11 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(62): WP2StaticGuzzleHttp\Promise\Promise->waitIfPending()
+#12 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\EachPromise.php(115): WP2StaticGuzzleHttp\Promise\Promise->wait()
+#13 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(248): WP2StaticGuzzleHttp\Promise\EachPromise->WP2StaticGuzzleHttp\Promise\{closure}(true)
+#14 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(224): WP2StaticGuzzleHttp\Promise\Promise->invokeWaitFn()
+#15 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(62): WP2StaticGuzzleHttp\Promise\Promise->waitIfPending()
+#16 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Crawler.php(246): WP2StaticGuzzleHttp\Promise\Promise->wait()
+#17 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Crawler.php(95): WP2Static\Crawler->crawlSite('C:/Users/user/L...')
+#18 C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-hook.php(308): WP2Static\Crawler::wp2staticCrawl('C:/Users/user/L...', 'wp2static')
+#19 C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#20 C:\Users\user\Local Sites\devjain\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#21 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Controller.php(821): do_action('wp2static_crawl', 'C:/Users/user/L...', 'wp2static')
+#22 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Controller.php(702): WP2Static\Controller::wp2staticCrawl()
+#23 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Controller.php(811): WP2Static\Controller::wp2staticHeadless()
+#24 C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-hook.php(306): WP2Static\Controller::wp2staticRun()
+#25 C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#26 C:\Users\user\Local Sites\devjain\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#27 C:\Users\user\Local Sites\devjain\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_wp2stat...')
+#28 {main}
+  thrown in C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Crawler.php on line 235
+[16-Jul-2023 14:37:46 UTC] PHP Warning:  Attempt to read property "hierarchical" on null in C:\Users\user\Local Sites\devjain\app\public\wp-includes\link-template.php on line 337
+[16-Jul-2023 14:37:46 UTC] PHP Warning:  Attempt to read property "query_var" on null in C:\Users\user\Local Sites\devjain\app\public\wp-includes\link-template.php on line 347
+[16-Jul-2023 18:58:15 UTC] PHP Warning:  Attempt to read property "hierarchical" on null in C:\Users\user\Local Sites\devjain\app\public\wp-includes\link-template.php on line 337
+[16-Jul-2023 18:58:15 UTC] PHP Warning:  Attempt to read property "query_var" on null in C:\Users\user\Local Sites\devjain\app\public\wp-includes\link-template.php on line 347
+[16-Jul-2023 19:19:12 UTC] PHP Warning:  Attempt to read property "hierarchical" on null in C:\Users\user\Local Sites\devjain\app\public\wp-includes\link-template.php on line 337
+[16-Jul-2023 19:19:12 UTC] PHP Warning:  Attempt to read property "query_var" on null in C:\Users\user\Local Sites\devjain\app\public\wp-includes\link-template.php on line 347
+[16-Jul-2023 19:28:37 UTC] PHP Fatal error:  Uncaught TypeError: WP2Static\Crawler::WP2Static\{closure}(): Argument #1 ($reason) must be of type WP2StaticGuzzleHttp\Exception\RequestException, WP2StaticGuzzleHttp\Exception\ConnectException given in C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Crawler.php:235
+Stack trace:
+#0 [internal function]: WP2Static\Crawler->WP2Static\{closure}(Object(WP2StaticGuzzleHttp\Exception\ConnectException), 3, Object(WP2StaticGuzzleHttp\Promise\Promise))
+#1 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\EachPromise.php(191): call_user_func(Object(Closure), Object(WP2StaticGuzzleHttp\Exception\ConnectException), 3, Object(WP2StaticGuzzleHttp\Promise\Promise))
+#2 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(204): WP2StaticGuzzleHttp\Promise\EachPromise->WP2StaticGuzzleHttp\Promise\{closure}(Object(WP2StaticGuzzleHttp\Exception\ConnectException))
+#3 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(153): WP2StaticGuzzleHttp\Promise\Promise::callHandler(2, Object(WP2StaticGuzzleHttp\Exception\ConnectException), NULL)
+#4 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\TaskQueue.php(48): WP2StaticGuzzleHttp\Promise\Promise::WP2StaticGuzzleHttp\Promise\{closure}()
+#5 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\CurlMultiHandler.php(158): WP2StaticGuzzleHttp\Promise\TaskQueue->run()
+#6 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\CurlMultiHandler.php(183): WP2StaticGuzzleHttp\Handler\CurlMultiHandler->tick()
+#7 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(248): WP2StaticGuzzleHttp\Handler\CurlMultiHandler->execute(true)
+#8 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(224): WP2StaticGuzzleHttp\Promise\Promise->invokeWaitFn()
+#9 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(269): WP2StaticGuzzleHttp\Promise\Promise->waitIfPending()
+#10 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(226): WP2StaticGuzzleHttp\Promise\Promise->invokeWaitList()
+#11 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(62): WP2StaticGuzzleHttp\Promise\Promise->waitIfPending()
+#12 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\EachPromise.php(115): WP2StaticGuzzleHttp\Promise\Promise->wait()
+#13 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(248): WP2StaticGuzzleHttp\Promise\EachPromise->WP2StaticGuzzleHttp\Promise\{closure}(true)
+#14 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(224): WP2StaticGuzzleHttp\Promise\Promise->invokeWaitFn()
+#15 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(62): WP2StaticGuzzleHttp\Promise\Promise->waitIfPending()
+#16 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Crawler.php(246): WP2StaticGuzzleHttp\Promise\Promise->wait()
+#17 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Crawler.php(95): WP2Static\Crawler->crawlSite('C:/Users/user/L...')
+#18 C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-hook.php(308): WP2Static\Crawler::wp2staticCrawl('C:/Users/user/L...', 'wp2static')
+#19 C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#20 C:\Users\user\Local Sites\devjain\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#21 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Controller.php(821): do_action('wp2static_crawl', 'C:/Users/user/L...', 'wp2static')
+#22 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Controller.php(702): WP2Static\Controller::wp2staticCrawl()
+#23 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Controller.php(811): WP2Static\Controller::wp2staticHeadless()
+#24 C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-hook.php(306): WP2Static\Controller::wp2staticRun()
+#25 C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#26 C:\Users\user\Local Sites\devjain\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#27 C:\Users\user\Local Sites\devjain\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_wp2stat...')
+#28 {main}
+  thrown in C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Crawler.php on line 235
+[16-Jul-2023 19:29:12 UTC] PHP Fatal error:  Uncaught WP2StaticGuzzleHttp\Exception\ConnectException: cURL error 28: Operation timed out after 600007 milliseconds with 0 bytes received (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for http://devjain.local/robots.txt in C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\CurlFactory.php:210
+Stack trace:
+#0 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\CurlFactory.php(158): WP2StaticGuzzleHttp\Handler\CurlFactory::createRejection(Object(WP2StaticGuzzleHttp\Handler\EasyHandle), Array)
+#1 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\CurlFactory.php(110): WP2StaticGuzzleHttp\Handler\CurlFactory::finishError(Object(WP2StaticGuzzleHttp\Handler\CurlHandler), Object(WP2StaticGuzzleHttp\Handler\EasyHandle), Object(WP2StaticGuzzleHttp\Handler\CurlFactory))
+#2 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\CurlHandler.php(47): WP2StaticGuzzleHttp\Handler\CurlFactory::finish(Object(WP2StaticGuzzleHttp\Handler\CurlHandler), Object(WP2StaticGuzzleHttp\Handler\EasyHandle), Object(WP2StaticGuzzleHttp\Handler\CurlFactory))
+#3 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\Proxy.php(28): WP2StaticGuzzleHttp\Handler\CurlHandler->__invoke(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#4 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\Proxy.php(48): WP2StaticGuzzleHttp\Handler\Proxy::WP2StaticGuzzleHttp\Handler\{closure}(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#5 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\PrepareBodyMiddleware.php(35): WP2StaticGuzzleHttp\Handler\Proxy::WP2StaticGuzzleHttp\Handler\{closure}(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#6 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Middleware.php(31): WP2StaticGuzzleHttp\PrepareBodyMiddleware->__invoke(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#7 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\RedirectMiddleware.php(71): WP2StaticGuzzleHttp\Middleware::WP2StaticGuzzleHttp\{closure}(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#8 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Middleware.php(61): WP2StaticGuzzleHttp\RedirectMiddleware->__invoke(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#9 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\HandlerStack.php(75): WP2StaticGuzzleHttp\Middleware::WP2StaticGuzzleHttp\{closure}(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#10 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Client.php(331): WP2StaticGuzzleHttp\HandlerStack->__invoke(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#11 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Client.php(107): WP2StaticGuzzleHttp\Client->transfer(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#12 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Client.php(123): WP2StaticGuzzleHttp\Client->sendAsync(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#13 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\DetectSitemapsURLs.php(91): WP2StaticGuzzleHttp\Client->send(Object(WP2StaticGuzzleHttp\Psr7\Request))
+#14 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\URLDetector.php(101): WP2Static\DetectSitemapsURLs::detect('http://devjain....')
+#15 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\URLDetector.php(196): WP2Static\URLDetector::detectURLs()
+#16 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Controller.php(699): WP2Static\URLDetector::enqueueURLs()
+#17 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Controller.php(811): WP2Static\Controller::wp2staticHeadless()
+#18 C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-hook.php(306): WP2Static\Controller::wp2staticRun()
+#19 C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#20 C:\Users\user\Local Sites\devjain\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#21 C:\Users\user\Local Sites\devjain\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_wp2stat...')
+#22 {main}
+  thrown in C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\CurlFactory.php on line 210
+[16-Jul-2023 20:28:39 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\update.php on line 447
+[16-Jul-2023 20:28:39 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\update.php on line 728
+[16-Jul-2023 20:28:39 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\user\Local Sites\devjain\app\public\wp-includes\update.php on line 209
+[16-Jul-2023 20:34:58 UTC] PHP Warning:  Attempt to read property "hierarchical" on null in C:\Users\user\Local Sites\devjain\app\public\wp-includes\link-template.php on line 337
+[16-Jul-2023 20:34:58 UTC] PHP Warning:  Attempt to read property "query_var" on null in C:\Users\user\Local Sites\devjain\app\public\wp-includes\link-template.php on line 347
+[17-Jul-2023 03:53:29 UTC] PHP Fatal error:  Uncaught TypeError: WP2Static\Crawler::WP2Static\{closure}(): Argument #1 ($reason) must be of type WP2StaticGuzzleHttp\Exception\RequestException, WP2StaticGuzzleHttp\Exception\ConnectException given in C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Crawler.php:235
+Stack trace:
+#0 [internal function]: WP2Static\Crawler->WP2Static\{closure}(Object(WP2StaticGuzzleHttp\Exception\ConnectException), 2, Object(WP2StaticGuzzleHttp\Promise\Promise))
+#1 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\EachPromise.php(191): call_user_func(Object(Closure), Object(WP2StaticGuzzleHttp\Exception\ConnectException), 2, Object(WP2StaticGuzzleHttp\Promise\Promise))
+#2 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(204): WP2StaticGuzzleHttp\Promise\EachPromise->WP2StaticGuzzleHttp\Promise\{closure}(Object(WP2StaticGuzzleHttp\Exception\ConnectException))
+#3 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(153): WP2StaticGuzzleHttp\Promise\Promise::callHandler(2, Object(WP2StaticGuzzleHttp\Exception\ConnectException), NULL)
+#4 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\TaskQueue.php(48): WP2StaticGuzzleHttp\Promise\Promise::WP2StaticGuzzleHttp\Promise\{closure}()
+#5 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\CurlMultiHandler.php(158): WP2StaticGuzzleHttp\Promise\TaskQueue->run()
+#6 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\CurlMultiHandler.php(183): WP2StaticGuzzleHttp\Handler\CurlMultiHandler->tick()
+#7 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(248): WP2StaticGuzzleHttp\Handler\CurlMultiHandler->execute(true)
+#8 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(224): WP2StaticGuzzleHttp\Promise\Promise->invokeWaitFn()
+#9 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(269): WP2StaticGuzzleHttp\Promise\Promise->waitIfPending()
+#10 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(226): WP2StaticGuzzleHttp\Promise\Promise->invokeWaitList()
+#11 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(62): WP2StaticGuzzleHttp\Promise\Promise->waitIfPending()
+#12 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\EachPromise.php(115): WP2StaticGuzzleHttp\Promise\Promise->wait()
+#13 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(248): WP2StaticGuzzleHttp\Promise\EachPromise->WP2StaticGuzzleHttp\Promise\{closure}(true)
+#14 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(224): WP2StaticGuzzleHttp\Promise\Promise->invokeWaitFn()
+#15 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(62): WP2StaticGuzzleHttp\Promise\Promise->waitIfPending()
+#16 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Crawler.php(246): WP2StaticGuzzleHttp\Promise\Promise->wait()
+#17 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Crawler.php(95): WP2Static\Crawler->crawlSite('C:/Users/user/L...')
+#18 C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-hook.php(308): WP2Static\Crawler::wp2staticCrawl('C:/Users/user/L...', 'wp2static')
+#19 C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#20 C:\Users\user\Local Sites\devjain\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#21 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Controller.php(821): do_action('wp2static_crawl', 'C:/Users/user/L...', 'wp2static')
+#22 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Controller.php(702): WP2Static\Controller::wp2staticCrawl()
+#23 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Controller.php(811): WP2Static\Controller::wp2staticHeadless()
+#24 C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-hook.php(306): WP2Static\Controller::wp2staticRun()
+#25 C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#26 C:\Users\user\Local Sites\devjain\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#27 C:\Users\user\Local Sites\devjain\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_wp2stat...')
+#28 {main}
+  thrown in C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Crawler.php on line 235
+[17-Jul-2023 04:21:51 UTC] PHP Warning:  Attempt to read property "hierarchical" on null in C:\Users\user\Local Sites\devjain\app\public\wp-includes\link-template.php on line 337
+[17-Jul-2023 04:21:51 UTC] PHP Warning:  Attempt to read property "query_var" on null in C:\Users\user\Local Sites\devjain\app\public\wp-includes\link-template.php on line 347
+[17-Jul-2023 04:49:41 UTC] PHP Warning:  Attempt to read property "hierarchical" on null in C:\Users\user\Local Sites\devjain\app\public\wp-includes\link-template.php on line 337
+[17-Jul-2023 04:49:41 UTC] PHP Warning:  Attempt to read property "query_var" on null in C:\Users\user\Local Sites\devjain\app\public\wp-includes\link-template.php on line 347
+[17-Jul-2023 04:52:07 UTC] PHP Fatal error:  Uncaught TypeError: WP2Static\Crawler::WP2Static\{closure}(): Argument #1 ($reason) must be of type WP2StaticGuzzleHttp\Exception\RequestException, WP2StaticGuzzleHttp\Exception\ConnectException given in C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Crawler.php:235
+Stack trace:
+#0 [internal function]: WP2Static\Crawler->WP2Static\{closure}(Object(WP2StaticGuzzleHttp\Exception\ConnectException), 503, Object(WP2StaticGuzzleHttp\Promise\Promise))
+#1 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\EachPromise.php(191): call_user_func(Object(Closure), Object(WP2StaticGuzzleHttp\Exception\ConnectException), 503, Object(WP2StaticGuzzleHttp\Promise\Promise))
+#2 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(204): WP2StaticGuzzleHttp\Promise\EachPromise->WP2StaticGuzzleHttp\Promise\{closure}(Object(WP2StaticGuzzleHttp\Exception\ConnectException))
+#3 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(153): WP2StaticGuzzleHttp\Promise\Promise::callHandler(2, Object(WP2StaticGuzzleHttp\Exception\ConnectException), NULL)
+#4 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\TaskQueue.php(48): WP2StaticGuzzleHttp\Promise\Promise::WP2StaticGuzzleHttp\Promise\{closure}()
+#5 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\CurlMultiHandler.php(158): WP2StaticGuzzleHttp\Promise\TaskQueue->run()
+#6 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\CurlMultiHandler.php(183): WP2StaticGuzzleHttp\Handler\CurlMultiHandler->tick()
+#7 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(248): WP2StaticGuzzleHttp\Handler\CurlMultiHandler->execute(true)
+#8 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(224): WP2StaticGuzzleHttp\Promise\Promise->invokeWaitFn()
+#9 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(269): WP2StaticGuzzleHttp\Promise\Promise->waitIfPending()
+#10 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(226): WP2StaticGuzzleHttp\Promise\Promise->invokeWaitList()
+#11 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(62): WP2StaticGuzzleHttp\Promise\Promise->waitIfPending()
+#12 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\EachPromise.php(115): WP2StaticGuzzleHttp\Promise\Promise->wait()
+#13 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(248): WP2StaticGuzzleHttp\Promise\EachPromise->WP2StaticGuzzleHttp\Promise\{closure}(true)
+#14 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(224): WP2StaticGuzzleHttp\Promise\Promise->invokeWaitFn()
+#15 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(62): WP2StaticGuzzleHttp\Promise\Promise->waitIfPending()
+#16 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Crawler.php(246): WP2StaticGuzzleHttp\Promise\Promise->wait()
+#17 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Crawler.php(95): WP2Static\Crawler->crawlSite('C:/Users/user/L...')
+#18 C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-hook.php(308): WP2Static\Crawler::wp2staticCrawl('C:/Users/user/L...', 'wp2static')
+#19 C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#20 C:\Users\user\Local Sites\devjain\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#21 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Controller.php(821): do_action('wp2static_crawl', 'C:/Users/user/L...', 'wp2static')
+#22 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Controller.php(702): WP2Static\Controller::wp2staticCrawl()
+#23 C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Controller.php(811): WP2Static\Controller::wp2staticHeadless()
+#24 C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-hook.php(306): WP2Static\Controller::wp2staticRun()
+#25 C:\Users\user\Local Sites\devjain\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#26 C:\Users\user\Local Sites\devjain\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#27 C:\Users\user\Local Sites\devjain\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_wp2stat...')
+#28 {main}
+  thrown in C:\Users\user\Local Sites\devjain\app\public\wp-content\plugins\wp2static\src\Crawler.php on line 235
